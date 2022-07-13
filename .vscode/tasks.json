@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "blogging-master/client",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - blogging-master/client",
+			"detail": "node scripts/build.js"
+		}
+	]
+}
